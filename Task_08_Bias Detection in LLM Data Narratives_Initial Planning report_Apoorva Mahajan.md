@@ -1,6 +1,5 @@
 # **Task 08 Initial Planning Report**
-**Project:** Bias Detection in LLM-Generated Sports Data Narratives  
-**Researcher:** Apoorva Mahajan  
+**Project:** Bias Detection in LLM-Generated Sports Data Narratives   
 **Date:** 2025-10-15
 
 ## 1. Objective
